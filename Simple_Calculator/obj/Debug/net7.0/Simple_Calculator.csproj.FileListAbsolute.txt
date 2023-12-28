@@ -1,0 +1,15 @@
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\bin\Debug\net7.0\Simple_Calculator.exe
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\bin\Debug\net7.0\Simple_Calculator.deps.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\bin\Debug\net7.0\Simple_Calculator.runtimeconfig.json
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\bin\Debug\net7.0\Simple_Calculator.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\bin\Debug\net7.0\Simple_Calculator.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.csproj.AssemblyReference.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.AssemblyInfoInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.AssemblyInfo.cs
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\refint\Simple_Calculator.dll
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.pdb
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\Simple_Calculator.genruntimeconfig.cache
+C:\Users\au10155\Desktop\с#\LECTION_C#\homework_to_Lession1\Simple_Calculator\Simple_Calculator\obj\Debug\net7.0\ref\Simple_Calculator.dll
